@@ -1,0 +1,30 @@
+1- HTML base code
+2- Display current date!
+3- get a number(using an input tag) and show(button onClick) whether it is odd or even.
+4- get a number(using prompt) and print(document.write) all its less prime numbers.
+	sample:
+		input: 15
+		output: 2,3,5,7,11,13
+5- use a form tag and get a number(using an input tag) and show(button onClick):
+	btn1: its revers (1234 -> 4321)
+	btn2: its sum of digits (1234 -> 10)
+        btn3: its number of digits (1234 -> 4)
+        btn4: check if it is in fibonacci sequence (13 -> YES)
+        btn5: its factorial if nember is less than 15, otherwise show a proper message(alert) ( 5 -> 120) 
+
+6- use a form tag and get a string(using an input tag) and show(button onClick):
+	(join, split, toUpperCase,... )
+	btn1: its revers (abcd -> dcba)
+	btn2: its number of characters (abcd -> 4)
+        btn3: its letters in alphabetical order (d1b2ac -> a1b2cd)
+        btn4: converts the first letter of each word of it in upper case (the beautiful grey cat -> The Beautiful Grey Cat)
+
+7- Load the employee dataset into your code, then design a proper form to handle the following requests:	
+	
+	- use the map function and table tag to show all data
+	- search a name and display all fetched information
+	- sort employees based on their names
+	- get two amount for salary and retrieve who are in between
+	- Based on the start date and the current date, determine how many days/weeks each person has worked (add two columns for day and week)
+
+        
