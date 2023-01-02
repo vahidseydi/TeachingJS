@@ -10,7 +10,9 @@ It is suggested to create an HTML file corresponding to the exercise number. Als
 From the links below, you can learn about HTML tags and JavaScript examples.
 
 https://www.w3schools.com/html/html_scripts.asp
+
 https://www.w3schools.com/js/default.asp
+
 https://www.w3schools.com/js/js_examples.asp
 
 More exercises are gradually added to this repository.
